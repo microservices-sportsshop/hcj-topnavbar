@@ -44,3 +44,33 @@ nav {
     justify-content: space-between;
     padding: .2rem;
 }
+
+
+.menu {
+    height: auto;
+    display: flex;
+    transition: all 0.3s linear;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu a {
+    color: #074173;
+    font-weight: bolder;
+    font-size: 1.2rem;
+    letter-spacing: 0.1rem;
+    display: block;
+    padding: 0.5rem 1rem;
+    transition: all 0.3s linear;
+}
+
+.menu a:hover {
+    background: #074173;
+    color: #5BBCFF;
+}
