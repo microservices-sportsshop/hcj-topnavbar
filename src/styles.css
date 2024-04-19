@@ -42,7 +42,6 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /* padding: .2rem; */
 }
 
 
@@ -74,4 +73,10 @@ a {
 .menu a:hover {
     background: #074173;
     color: #5BBCFF;
+}
+
+.welcome-msg {
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
 }
