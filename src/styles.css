@@ -80,3 +80,12 @@ a {
     justify-content: center;
     font-family: sans-serif;
 }
+
+banner-div {
+    margin-top: .7rem;
+}
+
+#banner1 {
+    height: 400px;
+    width: 100%;
+}
